@@ -6,3 +6,4 @@ Salah satu tugas project riset operasi dimana metode hungarian yang digunakan un
 Pembuatan aplikasi :
 1. Bahasa java
 2. GUI java Swing
+3. NetBeans
